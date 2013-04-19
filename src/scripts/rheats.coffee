@@ -15,9 +15,17 @@
 
 food = [
   "Foundation"
-, "Budgies"
+, "Budgie's"
 , "Peaceful"
 , "Sushi California"
+, "Hime Sushi"
+, "Argo"
+, "Our Place"
+, "Nice Cafe"
+, "Eight 1/2"
+, "Pho"
+, "Cham Mani"
+, "Wallflower"
 ]
 
 eats = (msg) ->
