@@ -11,7 +11,7 @@
 #   eats? - Returns a random place to eat near Broadway and Main Vancouver, BC.
 #
 # Author:
-#   atmos
+#   sprice
 
 food = [
   "Foundation"
